@@ -1,7 +1,7 @@
 Hi 👋 My name is Vivek Devkar
 =============================
 
-Backend Developer
+Django Developer
 -----------------
 
 I'm a level 3🌟 coder on Codechef, and I came in 19th place out of 28907 participants in the codechef long challenge in June 2020. In DSA, I've solved over 250 questions on a variety of topics. I contribute to open-source on GitHub in a variety of ways, from fixing problems in files to adding new features to projects. I am a hardworking Computer Technology Engineering student with a positive outlook. I'm always on the lookout for new ways to expand my technology expertise and excel at it. Have relevant professional expertise in Web technologies and have obtained valuable insight into the implementation of some through numerous projects. Python, C++, HTML, CSS, Django, git, and GitHub are among my skills. I also have limited familiarity with web frameworks such as Bootstrap, tailwind css
