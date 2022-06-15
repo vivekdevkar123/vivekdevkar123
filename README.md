@@ -4,7 +4,11 @@ Hi 👋 My name is Vivek Devkar
 Django Developer
 -----------------
 
-I'm a level 3🌟 coder on Codechef, and I came in 19th place out of 28907 participants in the codechef long challenge in June 2020. In DSA, I've solved over 250 questions on a variety of topics. I contribute to open-source on GitHub in a variety of ways, from fixing problems in files to adding new features to projects. I am a hardworking Computer Technology Engineering student with a positive outlook. I'm always on the lookout for new ways to expand my technology expertise and excel at it. Have relevant professional expertise in Web technologies and have obtained valuable insight into the implementation of some through numerous projects. Python, C++, HTML, CSS, Django, git, and GitHub are among my skills. I also have limited familiarity with web frameworks such as Bootstrap, tailwind css
+I am An ambitious Computer Technology Engineering student with an optimistic attitude. I am always seeking opportunities to explore technological knowledge and excel in it.
+
+Possess relevant professional experience gained in Web technology acquiring valuable insight into Implementation of the some using various projects.
+
+I have command on Python, C++, HTML, CSS, Django, git and GitHub.
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [https://www.linkedin.com/in/vivekdevkar123/](mailto:https://www.linkedin.com/in/vivekdevkar123/)
