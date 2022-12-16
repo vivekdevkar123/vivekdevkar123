@@ -13,7 +13,7 @@ I have command on Python, C++, HTML, CSS, Django, git and GitHub.
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [https://www.linkedin.com/in/vivekdevkar123/](mailto:https://www.linkedin.com/in/vivekdevkar123/)
 * 🤝  I'm open to collaborating on Web Development
-* ⚡  Email : mrvivekdevkar123@gmail.com
+* ⚡  Email : vivekmdevkar@gmail.com
 
 <a href="https://www.twitter.com/vivekdevkar123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vivekdevkar123?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -56,7 +56,15 @@ src="https://img.shields.io/github/followers/vivekdevkar123?logo=github&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vivekdevkar123/MyBlog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdevkar123&repo=MyBlog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vivekdevkar123/Movie-search" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdevkar123&repo=Movie-search&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+ 
+  <a href="https://github.com/vivekdevkar123/Movie-search" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdevkar123&repo=Movie-search&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+ 
+ <a href="https://github.com/vivekdevkar123/MyBlog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekdevkar123&repo=MyBlog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+</div>
+ 
+ <br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
