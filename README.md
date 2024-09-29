@@ -1,7 +1,7 @@
 Hi 👋 My name is Vivek Devkar
 =============================
 
-Django Developer
+Full Stack Developer
 -----------------
 
 I am An ambitious Computer Technology Engineering student with an optimistic attitude. I am always seeking opportunities to explore technological knowledge and excel in it.
